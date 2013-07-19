@@ -1,0 +1,28 @@
+{
+  "name": "aboutWhen",
+  "version": "0.1.0",
+  "title": "jQuery aboutWhen",
+  "description": "jQuery plugin for accepting partial or approximate dates, for cases where users have incomplete information that you want to capture.",
+  "keywords": [
+    "date",
+    "input",
+    "form"
+  ],
+  "author": {
+    "name": "Harold S. Henry",
+    "email": "harold@talerian.com"
+  },
+  "dependencies": {
+      "jquery": ">=1.5"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": "https://github.com/HaroldSHenry/jquery-aboutWhen/issues",
+  "homepage": "https://github.com/HaroldSHenry/jquery-aboutWhen",
+  "docs": "https://github.com/HaroldSHenry/jquery-aboutWhen",
+  "demo": "https://github.com/HaroldSHenry/jquery-aboutWhen/aboutWhen_demo.html"
+}

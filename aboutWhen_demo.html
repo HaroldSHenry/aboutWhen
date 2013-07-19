@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" charset="utf-8">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html" />
+		<title>jQuery aboutWhen Demo</title>
+		<meta name="description" content="This is where you can record a sex- or gender-related incident that caused you pain." />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="stylesheet" type="text/css" href="./css/jquery-aboutWhen.min.css" />
+		<link rel="stylesheet" type="text/css" href="./css/aboutWhen_test.css" />
+	</head>
+	<body>
+		<h1>aboutWhen Demo</h1>
+		<div class="formContainer">
+			<form>
+				<label for="ggmBd">Great-grandmother's birthday:</label>
+				<div class="hsh-when" id="ggmBd"></div>
+				<label for="rbhDt">Most recent time I had a really bad headache:</label>
+				<div class="hsh-when" id="rbhDt"></div>
+			</form>
+		</div>
+
+		<script type="text/javascript" src="./js/jquery-1.10.1.min.js"></script>
+		<script type="text/javascript" src="./js/jquery-aboutWhen.min.js"></script>
+		<script type="text/javascript">
+			$(".hsh-when").aboutWhen( );
+		</script>
+	</body>
+</html>

@@ -13,11 +13,12 @@ The `aboutWhen` control creates a separate HTML `select` element for year, month
 
         <link rel="stylesheet" type="text/css" href="./css/jquery-aboutWhen.css" />
 
-    Or, since this CSS only styles 3 classes and you may want to adjust it for your site, you can just incorporate its content into one of your own CSS files.
+    Or, since this CSS only styles 3 classes and you may want to adjust it for your site, you can open **jquery-aboutWhen.css** and incorporate its content into one of your own CSS files.
  
-2. Then, in the `<body>` of your HTML page, place an empty `<div>` element with its own `id` and a class of `hsh-when`:
+2. Then, in the `<body>` of your HTML page,  wherever you want an `aboutWhen` control, place an empty `<div>` element with its own `id`, a class of `hsh-when`, and optionally its own label. For example::
 
-        <div id="[someDateId]" class="hsh-when"></div>
+        <label for="ggmBd">Great-great-grandmother's birthday:</label>
+        <div class="hsh-when" id="ggmBd"></div>
 
 3. At the end of the HTML body, include the **jquery-aboutWhen.min.js** Javascript file:
 

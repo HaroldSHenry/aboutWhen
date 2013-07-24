@@ -5,8 +5,7 @@ div.hsh-when
 	position:relative;
 	margin:0;
 	padding:0;
-	font-family:'Segoe UI','Lucida Grande',Verdana,Arial,Helvetica,sans-serif;
-	height:2.5em;
+	height: 1.5em;
 	zoom:1;
 }
 
@@ -23,7 +22,7 @@ select.hsh-when-S
 label.hsh-when-L
 {
 	position:absolute;
-	margin:2px 0 0 8px;
+	margin: 1px 0 0 8px;
 	padding:0;
 	line-height:24px;
 	font-weight:400;

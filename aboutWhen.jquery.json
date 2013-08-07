@@ -1,6 +1,6 @@
 {
   "name": "aboutWhen",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "title": "jQuery aboutWhen",
   "description": "jQuery plugin for accepting partial or approximate dates, for cases where users have incomplete information that you want to capture.",
   "keywords": [

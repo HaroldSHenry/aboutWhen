@@ -1,13 +1,12 @@
 /**
- * aboutWhen:  A jQuery UI widget plugin for accepting
- *             partial or approximate date information.
- * http://talerian.com/scripts/aboutWhen.html
+ * aboutWhen:  A jQuery plugin for accepting partial or approximate date information.
+ * http://talerian.com/aboutWhen.html
  *
- * @name       hshAboutWhen jQuery Plugin
+ * @name       jQuery aboutWhen
  * @author     Harold S. Henry <harold@talerian.com>
- * @version    0.1.0
+ * @version    0.1.6
  *
- * @requires jQuery
+ * @requires   jQuery
  *
  * Copyright (c) 2013 by Harold S. Henry
  * Dual licensed under the MIT and GPL licenses.

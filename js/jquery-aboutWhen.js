@@ -4,7 +4,7 @@
  *
  * @name       jQuery aboutWhen
  * @author     Harold S. Henry <harold@talerian.com>
- * @version    0.1.6
+ * @version    0.1.7
  *
  * @requires   jQuery
  *

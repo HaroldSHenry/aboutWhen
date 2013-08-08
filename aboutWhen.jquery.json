@@ -1,6 +1,6 @@
 {
   "name": "aboutWhen",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "title": "jQuery aboutWhen",
   "description": "jQuery plugin for accepting partial or approximate dates, for cases where users have incomplete information that you want to capture.",
   "keywords": [
@@ -25,6 +25,6 @@
   "bugs": "https://github.com/HaroldSHenry/jquery-aboutWhen/issues",
   "homepage": "https://github.com/HaroldSHenry/aboutWhen",
 	"download": "https://github.com/HaroldSHenry/aboutWhen/archive/master.zip",
-  "docs": "http://www.talerian.com/aboutWhen_demo.html",
-  "demo": "http://www.talerian.com/aboutWhen_demo.html"
+  "docs": "http://www.talerian.com/aboutWhen.html",
+  "demo": "http://www.talerian.com/aboutWhen.html"
 }
